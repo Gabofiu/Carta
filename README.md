@@ -11,7 +11,7 @@
         <h1>Querido/a [Nombre]</h1>
         <p>Quería escribirte esta carta para decirte lo importante que eres para mí...</p>
         <p>Espero que te guste. ❤️</p>
-        <p>Con cariño,<br> [Tu Nombre]</p>
+        <p>Con cariño,<br> [Gabriel]</p>
     </div>
 </body>
 </html>
